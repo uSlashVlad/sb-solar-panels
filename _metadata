@@ -1,0 +1,11 @@
+{
+  "version" : "1.2",
+  "tags" : "Cheats and God Items|Furniture and Objects|Mechanics",
+  "author" : "Uberman & BorisBro",
+  "description" : "[ENG]\nThis mod makes Solar panel from Frackin Universe work at BYOS ship.\n\nWorks with Solar Panel, Solar Array and Solar tower.\n\nAnd if it's not works or you're lazy you can cheat some solar panels that works everywhere\nCheat Solar Panels ID:\nisn_ship_solarpanel\nfu_ship_solararray\nfu_ship_solararrayadv\n\n\nNOTE: if solar panel stopped working you can remove this solar panel, use command /reload (or rejoin at save) and place again\n\n[РУС]\nЭтот мод заставляет Солнечные панели из мода Frackin Universe работать на корабле BYOS.\n\nРаботает с Solar panel, Solar array и Solar Tower.\n\nИ если мод по какой-то причине не работает или ты просто ленивый, то ты можешь начитерить эти солнечные батареи, которые будут работать где угодно и при любом свете с максимальной скоростью\nID этих читерских панелей:\nisn_ship_solarpanel\nfu_ship_solararray\nfu_ship_solararrayadv\n\nЗАМЕТКА: если солнечная панель перестала по какой-то причине работать (а это может случиться), то надо её убрать, перезайти в сохранение и поставить обратно (работает в 99% случаев)",
+  "name" : "solar panels for BYOS",
+  "priority" : 9999,
+  "friendlyName" : "Working Solar panels for BYOS (Frackin Universe)",
+  "steamContentId" : "1795163770",
+  "link" : "steam://url/CommunityFilePage/1795163770"
+}
